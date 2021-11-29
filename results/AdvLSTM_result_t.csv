@@ -1,1 +1,2 @@
 model,stock,entire_exp_time,avg_test_ACC,avg_test_MCC
+AdvLSTM,AMZN,6.185557126998901,0.4140625,0.0
